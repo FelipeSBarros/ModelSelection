@@ -1,0 +1,153 @@
+study	ref	breed	biome	X	Y	RR.total.yield	control.c	crops.c	tree.c	nutri.c	supple.c	legumes.c	rotation	gender	type	stock rate control	soil	crops.t	tree.t	nutri.t	suppe.t	legumes.t	treat.total.yield	crops	tree	nutri	suppe	legumes
+1	Oliveira et al 2014	zebu	CERRADO	-54.61666667	-20.45	-0.927986772	CP	yes	no	yes	yes	no	no	f	beef	0.9	latossolo	no	yes	no	no	no	0.188888889	yes	yes	yes	yes	no
+1	Oliveira et al 2014	zebu	CERRADO	-54.61666667	-20.45	-0.883500909	CP	yes	no	yes	yes	no	no	f	beef	1	latossolo	no	yes	no	no	no	0.344444444	yes	yes	yes	yes	no
+1	Oliveira et al 2014	zebu	CERRADO	-54.61666667	-20.45	-0.257572271	CP	yes	no	yes	yes	no	no	f	beef	1.5	latossolo	no	yes	no	no	no	1.966666667	yes	yes	yes	yes	no
+1	Oliveira et al 2014	zebu	CERRADO	-54.61666667	-20.45	-0.55567619	CP	yes	no	yes	yes	no	no	f	beef	2.6	latossolo	no	yes	no	no	no	1.211111111	yes	yes	yes	yes	no
+1	Oliveira et al 2014	zebu	CERRADO	-54.61666667	-20.45	-0.360002734	CP	yes	no	yes	yes	no	no	f	beef	0.9	latossolo	no	yes	no	no	no	0.333333333	yes	yes	yes	yes	no
+1	Oliveira et al 2014	zebu	CERRADO	-54.61666667	-20.45	-0.01342302	CP	yes	no	yes	yes	no	no	f	beef	1	latossolo	no	yes	no	no	no	0.822222222	yes	yes	yes	yes	no
+1	Oliveira et al 2014	zebu	CERRADO	-54.61666667	-20.45	-0.086614473	CP	yes	no	yes	yes	no	no	f	beef	1.5	latossolo	no	yes	no	no	no	2.333333333	yes	yes	yes	yes	no
+1	Oliveira et al 2014	zebu	CERRADO	-54.61666667	-20.45	-0.27029033	CP	yes	no	yes	yes	no	no	f	beef	2.6	latossolo	no	yes	no	no	no	1.611111111	yes	yes	yes	yes	no
+2	Salton et al  2014	breeding	CERRADO	-54.80476944	-22.28244444	0.121139177	CP	no	no	no	no	no	no	f	beef	2.177777778	argissolo	yes	no	yes	no	no	4.731707317	yes	no	yes	no	no
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	-0.034758633	CP	no	no	yes	yes	no	no	m	beef	1.47	argissolo	no	no	no	no	yes	0.847411444	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.003220615	CP	no	no	yes	yes	no	no	m	beef	1.49	neossolo	no	no	no	no	yes	0.962848297	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.013468217	CP	no	no	yes	yes	no	no	m	beef	1.3	argissolo	no	no	no	no	yes	0.795212766	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.070067563	CP	no	no	yes	yes	no	no	m	beef	1.34	argissolo	no	no	no	no	yes	0.791666667	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	-0.022409901	CP	no	no	yes	yes	no	no	m	beef	1.43	argissolo	no	no	no	no	yes	1.400793651	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.005509656	CP	no	no	yes	yes	no	no	m	beef	1.51	chernossolo	no	no	no	no	yes	0.827272727	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.130620182	CP	no	no	yes	yes	no	no	m	beef	2.18	argissolo	no	no	no	no	yes	1.46866485	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.059835792	CP	no	no	yes	yes	no	no	m	beef	2.14	argissolo	no	no	no	no	yes	1.226006192	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	-0.010666768	CP	no	no	yes	yes	no	no	m	beef	1.86	argissolo	no	no	no	no	yes	0.992021277	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.149035579	CP	no	no	yes	yes	no	no	m	beef	2.02	argissolo	no	no	no	no	yes	1.068493151	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.049247935	CP	no	no	yes	yes	no	no	m	beef	1.92	argissolo	no	no	no	no	yes	1.197260274	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.126133815	CP	no	no	yes	yes	no	no	m	beef	2.03	argissolo	no	no	no	no	yes	1.317808219	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	-0.074661529	CP	no	no	yes	yes	no	no	m	beef	2.81	argissolo	no	no	no	no	yes	1.41369863	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.203452338	CP	no	no	yes	yes	no	no	m	beef	2.66	argissolo	no	no	no	no	yes	1.205479452	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.094362761	CP	no	no	yes	yes	no	no	m	beef	2.4	argissolo	no	no	no	no	yes	1.156164384	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.034916265	CP	no	no	yes	yes	no	no	m	beef	2.47	argissolo	no	no	no	no	yes	1.117808219	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	-0.280360908	CP	no	no	yes	yes	no	no	m	beef	2.43	argissolo	no	no	no	no	yes	1.032876712	no	no	yes	yes	yes
+3	Pereira et al 2009	zebu	ATLANTIC.FOREST	-39.5	-16.65	0.096391846	CP	no	no	yes	yes	no	no	m	beef	2.44	argissolo	no	no	no	no	yes	1.520547945	no	no	yes	yes	yes
+4	Euclides et al 1998	NA	CERRADO	-54.61666667	-20.45	0.075035186	CP	no	no	yes	no	no	no	m	beef	3.4	luvissolo	no	no	no	no	yes	2.766666667	no	no	yes	no	yes
+4	Euclides et al 1998	NA	CERRADO	-54.61666667	-20.45	0.270645885	CP	no	no	yes	no	no	no	m	beef	2.7	latossolo	no	no	no	no	yes	1.616666667	no	no	yes	no	yes
+5	Rizo et al  2014	breeding	PAMPA	-54.1	-31.31	1.052802753	SNP	no	no	no	no	no	no	m	beef	0.526666667	argissolo	no	no	yes	no	yes	1.310580205	no	no	yes	no	yes
+5	Rizo et al  2014	breeding	PAMPA	-54.1	-31.31	0.936970937	SNP	no	no	no	no	no	no	m	beef	0.526666667	planossolo	no	no	yes	no	yes	1.167235495	no	no	yes	no	yes
+5	Rizo et al  2014	breeding	PAMPA	-54.1	-31.31	1.075969812	SNP	no	no	no	no	no	no	m	beef	0.526666667	planossolo	no	no	yes	no	yes	1.341296928	no	no	yes	no	yes
+6	Lesama & Moojen 1999	breeding	PAMPA	-54.8665	-29.1914	0.333726011	CP	no	no	yes	no	yes	no	m	beef	2.533333333	latossolo	no	no	no	no	no	5.901639344	no	no	yes	no	yes
+7	Paris et al  2009	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.248157362	CP	no	no	no	no	yes	no	f	beef	2.35	latossolo	no	no	yes	no	no	0.903571429	no	no	yes	no	yes
+7	Paris et al  2009	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.365880612	CP	no	no	no	no	yes	no	f	beef	3.34	latossolo	no	no	yes	no	no	3.095714286	no	no	yes	no	yes
+7	Paris et al  2009	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	-0.104907462	CP	no	no	no	no	yes	no	f	beef	6.91	latossolo	no	no	yes	no	no	5.866285714	no	no	yes	no	yes
+7	Paris et al  2009	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.650420006	CP	no	no	no	no	yes	no	f	beef	3.46	latossolo	no	no	yes	no	no	1.705	no	no	yes	no	yes
+7	Paris et al  2009	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.439267589	CP	no	no	no	no	yes	no	f	beef	2.35	latossolo	no	no	yes	no	no	1.093857143	no	no	yes	no	yes
+7	Paris et al  2009	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.528159549	CP	no	no	no	no	yes	no	f	beef	3.34	latossolo	no	no	yes	no	no	3.641142857	no	no	yes	no	yes
+7	Paris et al  2009	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.155296489	CP	no	no	no	no	yes	no	f	beef	6.91	latossolo	no	no	yes	no	no	7.609714286	no	no	yes	no	yes
+7	Paris et al  2009	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	1.150954059	CP	no	no	no	no	yes	no	f	beef	3.46	latossolo	no	no	yes	no	no	2.812571429	no	no	yes	no	yes
+8	Xavier et al  2014	breeding	ATLANTIC.FOREST	-43.1	-21.55	0.155128675	CP	no	no	yes	yes	no	yes	f	dairy	1.306420233	latossolo	no	yes	no	no	yes	0.934246575	no	yes	yes	yes	yes
+9	Ferreira et al 2011	breeding	PAMPA	-55.85083333	-30.26777778	0.569094532	SNP	no	no	no	no	no	no	m	beef	0.7	vertissolo	no	no	yes	no	no	0.726027397	no	no	yes	no	no
+9	Ferreira et al 2011	breeding	PAMPA	-55.85083333	-30.26777778	0.633043256	SNP	no	no	no	no	no	no	m	beef	0.7	vertissolo	no	no	yes	no	no	0.773972603	no	no	yes	no	no
+9	Ferreira et al 2011	breeding	PAMPA	-55.85083333	-30.26777778	0.825745302	SNP	no	no	no	no	no	no	m	beef	1.1	vertissolo	no	no	yes	no	yes	1.047945205	no	no	yes	no	yes
+9	Ferreira et al 2011	breeding	PAMPA	-55.85083333	-30.26777778	0.805942675	SNP	no	no	no	no	no	no	m	beef	1.1	vertissolo	no	no	yes	no	yes	1.02739726	no	no	yes	no	yes
+10	Hohnwald et al 2006	breeding	AMAZON	-47.5	-1.033333333	-0.222535464	CP	no	no	no	yes	no	yes	m	beef	1.48	latossolo	no	no	yes	no	yes	0.860755814	no	no	yes	yes	yes
+10	Hohnwald et al 2006	breeding	AMAZON	-47.5	-1.033333333	0.080728728	CP	no	no	no	yes	no	yes	m	beef	1.48	latossolo	no	yes	no	no	no	1.165697674	no	yes	no	yes	no
+10	Hohnwald et al 2006	breeding	AMAZON	-47.5	-1.033333333	-0.073633251	CP	no	no	no	yes	no	yes	m	beef	1.48	latossolo	no	no	yes	no	yes	0.439416058	no	no	yes	yes	yes
+10	Hohnwald et al 2006	breeding	AMAZON	-47.5	-1.033333333	-0.463849764	CP	no	no	no	yes	no	yes	m	beef	1.48	latossolo	no	yes	no	no	no	0.297445255	no	yes	no	yes	no
+10	Hohnwald et al 2006	breeding	AMAZON	-47.5	-1.033333333	-1.589678762	CP	no	no	no	yes	no	yes	m	beef	1.23	latossolo	no	no	yes	no	yes	0.080232558	no	no	yes	yes	yes
+10	Hohnwald et al 2006	breeding	AMAZON	-47.5	-1.033333333	-0.237473377	CP	no	no	no	yes	no	yes	m	beef	1.23	latossolo	no	yes	no	no	no	0.310174419	no	yes	no	yes	no
+11	Paciullo et al 2011	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.151916042	CP	no	no	yes	yes	no	yes	f	dairy	0.48	latossolo	no	yes	no	no	yes	1.637362637	no	yes	yes	yes	yes
+11	Paciullo et al 2011	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.050858417	CP	no	no	yes	yes	no	yes	f	dairy	0.48	latossolo	no	yes	no	no	yes	1.32967033	no	yes	yes	yes	yes
+11	Paciullo et al 2011	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.201101451	CP	no	no	yes	yes	no	yes	f	dairy	0.48	latossolo	no	yes	no	no	yes	1.417582418	no	yes	yes	yes	yes
+11	Paciullo et al 2011	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	-0.097374164	CP	no	no	yes	yes	no	yes	f	dairy	0.48	latossolo	no	yes	no	no	yes	0.715447154	no	yes	yes	yes	yes
+11	Paciullo et al 2011	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.097980408	CP	no	no	yes	yes	no	yes	f	dairy	0.48	latossolo	no	yes	no	no	yes	0.609756098	no	yes	yes	yes	yes
+11	Paciullo et al 2011	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.16532398	CP	no	no	yes	yes	no	yes	f	dairy	0.48	latossolo	no	yes	no	no	yes	0.853658537	no	yes	yes	yes	yes
+12	Macedo et al  2001*	zebu	CERRADO	-54.6258	-20.4501	0.118432597	CP	no	no	no	no	no	no	f	beef	2	latossolo	no	no	yes	no	no	1.332179931	no	no	yes	no	no
+12	Macedo et al  2001*	zebu	CERRADO	-54.6258	-20.4501	-0.112178268	CP	no	no	no	no	no	no	f	beef	2	latossolo	no	no	yes	no	no	1.466076696	no	no	yes	no	no
+12	Macedo et al  2001*	zebu	CERRADO	-54.6258	-20.4501	-0.063878673	CP	no	no	no	no	no	no	f	beef	2	latossolo	no	no	yes	no	no	1.1179941	no	no	yes	no	no
+12	Macedo et al  2001*	zebu	CERRADO	-54.6258	-20.4501	0.322485995	CP	no	no	no	no	no	no	f	beef	2	latossolo	no	no	yes	no	no	1.466076696	no	no	yes	no	no
+12	Macedo et al  2001*	zebu	CERRADO	-54.6258	-20.4501	0.35605937	CP	no	no	no	no	no	no	f	beef	2	latossolo	no	no	yes	no	no	1.368731563	no	no	yes	no	no
+12	Macedo et al  2001*	zebu	CERRADO	-54.6258	-20.4501	0.747052445	CP	no	no	no	no	no	no	f	beef	2	latossolo	yes	no	no	no	no	2.02359882	yes	no	no	no	no
+12	Macedo et al  2001*	zebu	CERRADO	-54.6258	-20.4501	0.41501172	CP	no	no	no	no	no	no	f	beef	2	latossolo	yes	no	no	no	no	2.483775811	yes	no	no	no	no
+12	Macedo et al  2001*	zebu	CERRADO	-54.6258	-20.4501	0.25625271	CP	no	no	no	no	no	no	f	beef	2	latossolo	yes	no	no	no	no	1.539823009	yes	no	no	no	no
+13	 Yokoyama et al 1999	breeding	CERRADO	-52.0365	-21.2552	0.122140575	CP	no	no	yes	no	no	yes	m	beef	3.84	latossolo	yes	no	no	no	no	1.91630137	yes	no	yes	no	no
+13	 Yokoyama et al 1999	breeding	CERRADO	-52.0365	-21.2552	-0.014514468	CP	no	no	yes	no	no	yes	m	beef	3.84	latossolo	yes	no	no	no	no	1.671534247	yes	no	yes	no	no
+13	 Yokoyama et al 1999	breeding	CERRADO	-52.0365	-21.2552	0.084482726	CP	no	no	yes	no	no	yes	m	beef	3.84	latossolo	yes	no	no	no	yes	1.845479452	yes	no	yes	no	yes
+14	Ydoyaga Santana et al 2010	zebu	CAATINGA	-38.2879	-7.969	0.268413654	CP	no	no	no	no	no	no	f	dairy	6	luvissolo	no	no	no	yes	no	4.405714286	no	no	no	yes	no
+14	Ydoyaga Santana et al 2010	zebu	CAATINGA	-38.2879	-7.969	-0.107341555	CP	no	no	no	no	no	no	f	dairy	6	luvissolo	no	no	no	yes	no	3.025714286	no	no	no	yes	no
+14	Ydoyaga Santana et al 2010	zebu	CAATINGA	-38.2879	-7.969	0.183169374	CP	no	no	no	no	no	no	f	dairy	6	luvissolo	no	no	no	yes	no	4.045714286	no	no	no	yes	no
+14	Ydoyaga Santana et al 2010	european	CAATINGA	-38.2879	-7.969	0.521441925	CP	no	no	no	no	no	no	f	dairy	6	luvissolo	no	no	no	yes	no	6.222857143	no	no	no	yes	no
+14	Ydoyaga Santana et al 2010	european	CAATINGA	-38.2879	-7.969	-0.10510275	CP	no	no	no	no	no	no	f	dairy	6	luvissolo	no	no	no	yes	no	3.325714286	no	no	no	yes	no
+14	Ydoyaga Santana et al 2010	european	CAATINGA	-38.2879	-7.969	0.189641952	CP	no	no	no	no	no	no	f	dairy	6	luvissolo	no	no	no	yes	no	4.465714286	no	no	no	yes	no
+15	Moojen et al 1999	breeding	PAMPA	-53.7	-29.7	1.864417115	CP	no	no	no	no	no	no	m	beef	3.42	argissolo	no	no	yes	yes	no	4.313953488	no	no	yes	yes	no
+15	Moojen et al 1999	breeding	PAMPA	-53.7	-29.7	2.431322404	CP	no	no	no	no	no	no	m	beef	3.42	argissolo	no	no	yes	yes	no	7.604651163	no	no	yes	yes	no
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.490091131	CP	no	no	yes	no	no	yes	m	beef	0.740017031	chernossolo	no	yes	no	yes	yes	0.620062032	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	-0.190137236	CP	no	no	yes	no	no	yes	m	beef	0.746795211	argissolo	no	yes	no	yes	yes	0.096538855	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.384517216	CP	no	no	yes	no	no	yes	m	beef	0.787989866	argissolo	no	yes	no	yes	yes	0.559961911	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.008921213	CP	no	no	yes	no	no	yes	m	beef	0.839338874	luvissolo	no	yes	no	yes	yes	0.5395924	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.180194042	CP	no	no	yes	no	no	yes	m	beef	1.030501529	argissolo	no	yes	no	yes	yes	1.696258891	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	1.686821258	CP	no	no	yes	no	no	yes	m	beef	0.982540275	latossolo	no	yes	no	yes	yes	0.344469289	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.20543131	CP	no	no	yes	no	no	yes	m	beef	1.017676526	latossolo	no	yes	no	yes	yes	0.766815845	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	-0.163098445	CP	no	no	yes	no	no	yes	m	beef	1.190628336	latossolo	no	yes	no	yes	yes	0.907021005	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.348104062	CP	no	no	yes	no	no	yes	m	beef	1.162925902	latossolo	no	yes	no	yes	yes	1.7977684	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	-0.40375284	CP	no	no	yes	no	no	yes	m	beef	1.244659575	latossolo	no	yes	no	yes	yes	0.882685021	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.256692034	CP	no	no	yes	no	no	yes	m	beef	1.468261997	latossolo	no	yes	no	yes	yes	2.093897393	no	yes	yes	yes	yes
+16	Xavier 2009*	breeding	ATLANTIC.FOREST	-43.10416667	-21.55611111	0.238323093	CP	no	no	yes	no	no	yes	m	beef	1.375722789	latossolo	no	yes	no	yes	yes	0.782847601	no	yes	yes	yes	yes
+17	Bernadino 2007*	zebu	CERRADO	-54.6258	-20.4501	0.827791131	CP	yes	yes	no	yes	no	no	m	beef	0.584	neossolo	no	no	yes	no	no	1.470333333	yes	yes	yes	yes	no
+17	Bernadino 2007*	zebu	CERRADO	-54.6258	-20.4501	0.705211508	CP	yes	yes	no	yes	no	no	m	beef	0.584	neossolo	no	no	yes	no	no	1.853111111	yes	yes	yes	yes	no
+17	Bernadino 2007*	zebu	CERRADO	-54.6258	-20.4501	1.229344216	CP	yes	yes	no	yes	no	no	m	beef	0.584	neossolo	no	no	yes	no	no	2.196888889	yes	yes	yes	yes	no
+17	Bernadino 2007*	zebu	CERRADO	-54.6258	-20.4501	0.965572051	CP	yes	yes	no	yes	no	no	m	beef	0.584	neossolo	no	no	yes	no	no	2.404222222	yes	yes	yes	yes	no
+18	Roso 2007*	breeding	PAMPA	-53.8157	-29.6858	-0.058250355	CP	no	no	yes	no	no	no	f	beef	1.896666667	argissolo	no	no	no	no	yes	4.622727273	no	no	yes	no	yes
+18	Roso 2007*	breeding	PAMPA	-53.8157	-29.6858	0.338975367	CP	no	no	yes	no	no	no	f	beef	1.896666667	argissolo	no	no	no	no	yes	3.6	no	no	yes	no	yes
+18	Roso 2007*	breeding	PAMPA	-53.8157	-29.6858	0.341778995	CP	no	no	yes	no	no	no	f	beef	1.896666667	argissolo	no	no	no	no	yes	4.618518519	no	no	yes	no	yes
+18	Roso 2007*	breeding	PAMPA	-53.8157	-29.6858	0.281867426	CP	no	no	yes	no	no	no	f	beef	1.896666667	argissolo	no	no	no	yes	no	6.495454545	no	no	yes	yes	no
+18	Roso 2007*	breeding	PAMPA	-53.8157	-29.6858	0.540781781	CP	no	no	yes	no	no	no	f	beef	1.896666667	argissolo	no	no	no	yes	no	4.405	no	no	yes	yes	no
+18	Roso 2007*	breeding	PAMPA	-53.8157	-29.6858	0.775964296	CP	no	no	yes	no	no	no	f	beef	1.896666667	argissolo	no	no	no	yes	no	7.12962963	no	no	yes	yes	no
+19	Tanure 2008*	breeding	PAMPA	-56.02083333	-30.43444444	-0.075349437	SNP	no	no	no	no	no	no	f	beef	0.71	vertissolo	no	no	no	yes	no	0.349928571	no	no	no	yes	no
+19	Tanure 2008*	breeding	PAMPA	-56.02083333	-30.43444444	0.357570066	SNP	no	no	no	no	no	no	f	beef	0.71	vertissolo	no	no	no	yes	no	0.485842857	no	no	no	yes	no
+19	Tanure 2008*	breeding	PAMPA	-56.02083333	-30.43444444	-0.065867425	SNP	no	no	no	no	no	no	f	beef	0.71	vertissolo	no	no	no	yes	no	0.715071429	no	no	no	yes	no
+20	Gomes 2000*	NA	PAMPA	-51.65222222	-30.09777778	0.259282598	SNP	no	no	no	yes	no	no	f	dairy	1.624444444	plintossolo 	no	no	yes	no	no	3.52173913	no	no	yes	yes	no
+20	Gomes 2000*	NA	PAMPA	-51.65222222	-30.09777778	-0.27029033	SNP	no	no	no	yes	no	no	f	dairy	0.92	plintossolo 	no	no	yes	no	no	0.659090909	no	no	yes	yes	no
+20	Gomes 2000*	NA	PAMPA	-51.65222222	-30.09777778	0.781158058	SNP	no	no	no	yes	no	no	f	dairy	1.624444444	plintossolo 	no	no	yes	no	no	5.934782609	no	no	yes	yes	no
+20	Gomes 2000*	NA	PAMPA	-51.65222222	-30.09777778	0.281081388	SNP	no	no	no	yes	no	no	f	dairy	0.92	plintossolo 	no	no	yes	no	no	1.143939394	no	no	yes	yes	no
+21	Menegaz et al  2008	breeding	PAMPA	-57.08	-29.76	0.365068736	SNP	no	no	no	no	no	no	f	beef	0.6	chernossolo	no	no	no	no	no	0.322285714	no	no	no	no	no
+21	Menegaz et al  2008	breeding	PAMPA	-57.08	-29.76	0.95610072	SNP	no	no	no	no	no	no	f	beef	0.6	chernossolo	no	no	no	yes	yes	0.582	no	no	no	yes	yes
+22	Assmann et al 2004	european	ATLANTIC.FOREST	-51.48333333	-25.55	0.030771659	CP	no	no	no	no	yes	no	f	beef	3.122222222	latossolo	no	no	yes	no	no	5.322580645	no	no	yes	no	yes
+22	Assmann et al 2004	european	ATLANTIC.FOREST	-51.48333333	-25.55	0.042819997	CP	no	no	no	no	yes	no	f	beef	3.122222222	latossolo	no	no	yes	no	no	5.387096774	no	no	yes	no	yes
+22	Assmann et al 2004	european	ATLANTIC.FOREST	-51.48333333	-25.55	0.312374685	CP	no	no	no	no	yes	no	f	beef	3.122222222	latossolo	no	no	yes	no	no	7.053763441	no	no	yes	no	yes
+23	Vilela et al 1999*	breeding	CERRADO	-48.27722222	-18.91861111	0.138272985	CP	no	no	no	no	no	yes	f	beef	1.265	latossolo	yes	no	yes	no	yes	0.82739726	yes	no	yes	no	yes
+23	Vilela et al 1999*	zebu	CERRADO	-48.27722222	-18.91861111	0.466708733	CP	no	no	no	no	no	yes	f	beef	1.18	latossolo	no	no	yes	no	yes	0.830136986	no	no	yes	no	yes
+23	Vilela et al 1999*	zebu	CERRADO	-48.27722222	-18.91861111	0.424116225	CP	no	no	no	no	no	yes	f	beef	0.98	latossolo	no	no	yes	no	yes	1.260273973	no	no	yes	no	yes
+24	Lupatine 2013	breeding	PAMPA	-53.7	-29.71666667	0.655703753	CP	no	no	no	no	no	no	m	beef	1.497777778	argissolo	no	no	yes	no	no	3.15752381	no	no	yes	no	no
+24	Lupatine 2013	breeding	PAMPA	-53.7	-29.71666667	0.722822718	CP	no	no	no	no	no	no	m	beef	1.497777778	argissolo	no	no	yes	no	no	4.641898413	no	no	yes	no	no
+24	Lupatine 2013	breeding	PAMPA	-53.7	-29.71666667	0.774073999	CP	no	no	no	no	no	no	m	beef	1.497777778	argissolo	no	no	yes	no	no	4.083269841	no	no	yes	no	no
+24	Lupatine 2013	breeding	PAMPA	-53.7	-29.71666667	0.931305498	CP	no	no	no	no	no	no	m	beef	1.497777778	argissolo	no	no	yes	no	no	5.001149206	no	no	yes	no	no
+24	Lupatine 2013	breeding	PAMPA	-53.7	-29.71666667	0.887085781	CP	no	no	no	no	no	no	m	beef	1.497777778	argissolo	no	no	yes	no	no	3.979555556	no	no	yes	no	no
+24	Lupatine 2013	breeding	PAMPA	-53.7	-29.71666667	0.740986689	CP	no	no	no	no	no	no	m	beef	1.497777778	argissolo	no	no	yes	no	no	4.726984127	no	no	yes	no	no
+24	Lupatine 2013	breeding	PAMPA	-53.7	-29.71666667	0.587415676	CP	no	no	no	no	no	no	m	beef	1.497777778	argissolo	no	no	yes	no	no	3.388	no	no	yes	no	no
+24	Lupatine 2013	breeding	PAMPA	-53.7	-29.71666667	0.976578818	CP	no	no	no	no	no	no	m	beef	1.497777778	argissolo	no	no	yes	no	no	5.232771429	no	no	yes	no	no
+25	Tonissi et al  2005	breeding	AMAZON	-56.24388889	-9.883888889	0.700350093	CP	no	no	no	no	no	no	m	beef	1.07	argissolo	no	no	no	yes	no	0.995238095	no	no	no	yes	no
+25	Tonissi et al  2005	breeding	AMAZON	-56.24388889	-9.883888889	1.077507609	CP	no	no	no	no	no	no	m	beef	1.07	argissolo	no	no	no	yes	no	1.451190476	no	no	no	yes	no
+25	Tonissi et al  2005	breeding	AMAZON	-56.24388889	-9.883888889	1.282939864	CP	no	no	no	no	no	no	m	beef	1.07	argissolo	no	no	no	yes	no	1.782142857	no	no	no	yes	no
+25	Tonissi et al  2005	breeding	AMAZON	-56.24388889	-9.883888889	1.314500669	CP	no	no	no	no	no	no	m	beef	1.07	argissolo	no	no	no	yes	no	1.839285714	no	no	no	yes	no
+25	Tonissi et al  2005	breeding	AMAZON	-56.24388889	-9.883888889	0.488846717	CP	no	no	no	no	no	no	m	beef	1.07	argissolo	no	no	no	yes	no	1.061946903	no	no	no	yes	no
+25	Tonissi et al  2005	breeding	AMAZON	-56.24388889	-9.883888889	0.46864401	CP	no	no	no	no	no	no	m	beef	1.07	argissolo	no	no	no	yes	no	1.040707965	no	no	no	yes	no
+25	Tonissi et al  2005	breeding	AMAZON	-56.24388889	-9.883888889	0.672556199	CP	no	no	no	no	no	no	m	beef	1.07	argissolo	no	no	no	yes	no	1.276106195	no	no	no	yes	no
+25	Tonissi et al  2005	breeding	AMAZON	-56.24388889	-9.883888889	0.710656045	CP	no	no	no	no	no	no	m	beef	1.07	argissolo	no	no	no	yes	no	1.325663717	no	no	no	yes	no
+26	Sales et al a 2015*	zebu	AMAZON	-67.81	-9.974722222	0.188917697	CP	no	no	no	no	no	no	m	beef	3.87	luvissolo	no	no	no	no	yes	3.385842857	no	no	no	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.018872243	CP	no	no	yes	no	no	no	f	beef	5.381615599	latossolo	no	no	no	no	yes	4.104374669	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	-0.046496853	CP	no	no	yes	no	no	no	f	beef	4.863509749	latossolo	no	no	no	no	yes	3.37471889	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.059029784	CP	no	no	yes	no	no	no	f	beef	3.559888579	latossolo	no	no	no	no	yes	3.301303221	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.095313794	CP	no	no	yes	no	no	no	f	beef	3.192200557	latossolo	no	no	no	no	yes	2.524527847	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.14127814	CP	no	no	yes	no	no	no	f	beef	5.448467967	latossolo	no	no	no	no	yes	3.777138192	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.188868572	CP	no	no	no	no	yes	no	f	beef	4.763231198	latossolo	no	no	yes	no	no	4.104374669	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.673617594	CP	no	no	no	no	yes	no	f	beef	3.192200557	latossolo	no	no	yes	no	no	3.37471889	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.658365996	CP	no	no	no	no	yes	no	f	beef	2.490250696	latossolo	no	no	yes	no	no	3.301303221	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.426734147	CP	no	no	no	no	yes	no	f	beef	2.490250696	latossolo	no	no	yes	no	no	2.524527847	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.910272369	CP	no	no	no	no	yes	no	f	beef	2.791086351	latossolo	no	no	yes	no	no	3.777138192	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.143025121	CP	no	no	no	no	yes	no	f	beef	4.763231198	latossolo	no	no	yes	no	no	3.920463731	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.41331469	CP	no	no	no	no	yes	no	f	beef	3.192200557	latossolo	no	no	yes	no	no	2.601294289	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.397758634	CP	no	no	no	no	yes	no	f	beef	2.490250696	latossolo	no	no	yes	no	no	2.543929528	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.101596596	CP	no	no	no	no	yes	no	f	beef	2.490250696	latossolo	no	no	yes	no	no	1.823789543	no	no	yes	no	yes
+27	Gomes  2008*	breeding	ATLANTIC.FOREST	-52.43333333	-23.08333333	0.472170839	CP	no	no	no	no	yes	no	f	beef	2.791086351	latossolo	no	no	yes	no	no	2.437237195	no	no	yes	no	yes
+28	Sales et al b 2015*	zebu	AMAZON	-67.81	-9.974722222	0.722079651	CP	no	no	no	yes	yes	no	m	beef	2.55	luvissolo	no	no	no	yes	no	5.707185714	no	no	no	yes	yes
+29	Machado  2011*	breeding	ATLANTIC.FOREST	-35.1	-7.416666667	0.188976624	CP	no	no	yes	yes	no	no	f	beef	2.94	argissolo	no	no	no	no	yes	1.609362857	no	no	yes	yes	yes
+29	Machado  2011*	breeding	ATLANTIC.FOREST	-35.1	-7.416666667	0.174826163	CP	no	no	yes	yes	no	no	f	beef	2.94	argissolo	no	no	no	no	yes	1.58675	no	no	yes	yes	yes
+29	Machado  2011*	breeding	ATLANTIC.FOREST	-35.1	-7.416666667	0.305561781	CP	no	no	yes	yes	no	no	f	beef	2.94	argissolo	no	no	no	no	yes	1.808365714	no	no	yes	yes	yes
+29	Machado  2011*	breeding	ATLANTIC.FOREST	-35.1	-7.416666667	-0.140062502	CP	no	no	yes	yes	no	no	f	beef	2.94	argissolo	no	no	no	no	yes	1.158121429	no	no	yes	yes	yes
+29	Machado  2011*	breeding	ATLANTIC.FOREST	-35.1	-7.416666667	0.387306478	CP	no	no	yes	yes	no	no	f	beef	2.94	argissolo	no	no	no	no	no	1.9624	no	no	yes	yes	no
